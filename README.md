@@ -113,3 +113,33 @@ Weather                      Sentiment
        ┌─────────────┼─────────────┐
        ▼             ▼             ▼
       ROI            CLV       Calibration
+
+
+I think that's the right decision. 👍 We don't need to chase a completely unique idea before we've built something substantial. Let's build the original AURA project properly, learn the concepts along the way, and finish it one stage at a time. Once we understand the industry and the technical challenges deeply, we'll be in a much better position to identify opportunities for genuine innovation.
+
+#  AURA project roadmap
+
+Phase 1 — Probability Engine
+
+Build a football outcome prediction model and learn statistics, Python, feature engineering, machine learning and model evaluation.
+
+Phase 2 — Market Intelligence
+
+Introduce bookmaker odds, implied probabilities, market movements and potential pricing discrepancies.
+
+Phase 3 — AI Critic
+
+Develop a system that challenges predictions, examines evidence and communicates uncertainty.
+
+Phase 4 — Live Betting Intelligence
+
+Learn time-series modelling, streaming data, event processing and real-time inference.
+
+Phase 5 — Betting Exchange Simulator
+
+Explore agent-based modelling, market dynamics, simulation and reinforcement learning.
+
+Phase 6 — Responsible Betting AI
+
+Investigate behavioural modelling, anomaly detection and responsible-gambling interventions.
+
