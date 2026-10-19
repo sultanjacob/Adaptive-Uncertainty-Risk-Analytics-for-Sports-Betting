@@ -50,4 +50,8 @@ AI-powered betting market intelligence platform, initially focused on football.
 3. Building a Market Intelligence layer.
 4. Building an AI "Why did the odds move?" system.
 5. Adding an "AI referee" that challenges my model.
-6. 
+6. Adding a "Market Inefficiency Detector"- It's a decision support system and not a tipster.
+7. Adding "Closing Line Value"- Asking a question like; Did my system consistently identify prices that later moved in the direction it predicted?
+8. Building a proper paper-trading laboratory.
+9. Building In Play AI- Given everything that has happened in the last 15 minutes, what is the probability of each future outcome?"
+10. Building the betting market simulator.
